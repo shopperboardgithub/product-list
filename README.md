@@ -64,11 +64,11 @@
 
 | Name | Description | 
 |------------|----------| 
-| id | an unique identifier for product, number or string. |
-| title | product name |
-| url | product url |
-| price | product selling price. |
-| usualPrice | product usual price. |
+| id | An unique identifier for product, number or string. |
+| title | Product name |
+| url | Product url |
+| price | Product selling price. |
+| usualPrice | Product usual price. |
 | published_at | The date and time when the product was published. optional. |
 | images | A list of product image |
 | description | A list of description for the product, supports HTML formatting. Supports multiple type, e.g. shipping description, size description. |
@@ -79,10 +79,10 @@
 
 | Name | Description | 
 |------------|----------| 
-| id | an unique identifier for product, number or string. |
-| sku | product sku. |
-| price | product selling price. |
-| usualPrice | product usual price. |
+| id | An unique identifier for product, number or string. |
+| sku | Product sku. |
+| price | Product selling price. |
+| usualPrice | Product usual price. |
 | grams | The weight of the product variant in grams. |  
 | images | A list of product image, optional. |
 | quantity | Product inventory |
