@@ -62,9 +62,8 @@
 
 ### Product
 
-| Name | Description |
-
-|------------|----------|
+| Name | Description | 
+|------------|----------| 
 | id | an unique identifier for product, number or string. |
 | title | product name |
 | url | product url |
@@ -78,9 +77,8 @@
  
 ### Variant
 
-| Name | Description |
-
-|------------|----------|
+| Name | Description | 
+|------------|----------| 
 | id | an unique identifier for product, number or string. |
 | sku | product sku. |
 | price | product selling price. |
