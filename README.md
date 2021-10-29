@@ -1,7 +1,7 @@
 # ShopperBoard Product 
 
 - Retrieve a list of products.
-- Paginating Results:  supports page size and page number
+- Paginating results:  supports page size and page number, e.g. https://test.com/api/?limit=100&page=2
 
 ```JSON
 [
