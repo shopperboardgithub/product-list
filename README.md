@@ -1,5 +1,8 @@
 # ShopperBoard Product 
 
+- Retrieve a list of products.
+- Paginating Results:  supports page size and page number
+
 ```JSON
 [
   {
