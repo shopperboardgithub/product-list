@@ -63,6 +63,7 @@
 ### Product
 
 | Name | Description |
+
 |------------|----------|
 | id | an unique identifier for product, number or string. |
 | title | product name |
@@ -78,6 +79,7 @@
 ### Variant
 
 | Name | Description |
+
 |------------|----------|
 | id | an unique identifier for product, number or string. |
 | sku | product sku. |
