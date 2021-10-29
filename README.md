@@ -61,6 +61,7 @@
 ## Properties
 
 ### Product
+
 | Name | Description |
 |------------|----------|
 | id | an unique identifier for product, number or string. |
@@ -75,6 +76,7 @@
 | options | The custom product properties. For example, Size, Color, and Material. Product variants are made of up combinations of option values.|
  
 ### Variant
+
 | Name | Description |
 |------------|----------|
 | id | an unique identifier for product, number or string. |
