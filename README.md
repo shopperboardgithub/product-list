@@ -6,7 +6,7 @@
 ```JSON
 [
   {
-    "id": "",
+    "id": "p18ypesjlx",
     "title": "",
     "url": "https://producturl.com/product/test123",
     "price": 39,
@@ -31,7 +31,7 @@
     ],
     "variants": [
       {
-        "id": "",
+        "id": "cdqok9kjwo",
         "sku": "",
         "price": 40,
         "usualPrice": 50,
